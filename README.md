@@ -19,7 +19,7 @@ Note that this shell script requires a recent version of "Bash"
 Settings can be changed in the script itself or set in a seperate config file (default). Every setting has comments with possible options and examples.
 
 - The default filename is "freenom.conf" in the same location as the script
-- You can also use `freename.sh -c /path/to/file.conf`
+- You can also use `freenom.sh -c /path/to/file.conf`
 - To optionally use the script itself instead copy settings from conf into `freenom.sh` (put them before "Main")
 
 ### Scheduling
